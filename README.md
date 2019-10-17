@@ -11,6 +11,7 @@ Example of input:
 Gold
 1500.00
 1300.00
+(each on a new line)
 
 Program output:
 Purchase value: $1300.00
